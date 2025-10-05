@@ -9,6 +9,7 @@ Q3: 是否需要邀请码才能使用？
 A: 是的。无论是iOS应用还是网页版（sora.com）都需要邀请码才能使用。如果没有码，可以先下载APP，然后注册排队等待邀请。
 Q4: 如何获取邀请码？
 扫码进入十页的Sora 交流群，在群里询问，一般都会有人发出，记得在注册激活后，在自己的Sora app 个人主页左上角，复制分享邀请码到十页群里，传递分享的力量。
+
 <img width="410" height="640" alt="image" src="https://github.com/user-attachments/assets/a4427658-ebe7-4e17-b3b3-39780581f3a9" />
 
 
